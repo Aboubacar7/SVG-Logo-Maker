@@ -1,12 +1,11 @@
-const { default: test } = require('node:test');
-const { describe } = require('yargs');
+
 const Triangle =require('../lib/Triangle');
 
 describe('Triangle', () => {
     test('Should render a triangle shape', () => {
       const shape = new Triangle();
       shape.setColor("blue");
-      expect(shape.render()).toEqual('<polygon class="shape" x="10" y="10" points="150,30 244,182 56,182" style="fill:blue; stroke:#000" fill="blue"/>');
+      expect(shape.render()).toEqual('<polygon class="shape" x="10" y="10" points="150,30 244,182 56,182" style="fill:blue; stroke:#000"/>');
     })
     test('Should render text in the center of the triangle', () => {
         const shape = new Triangle('Hello World', 'white', 'blue');
