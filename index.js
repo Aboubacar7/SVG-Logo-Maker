@@ -49,6 +49,6 @@ inquirer
         }
         fs.writeFile('logo.svg', generateSVG(chosenShape), (err) => {
             if (err) throw err;
-            console.log("Shape created!")
+            console.log("Generated logo.svg")
         })
     })
