@@ -5,7 +5,7 @@ describe('Square', () => {
     test('Should render a square shape', () => {
       const shape = new Square();
       shape.setColor("yellow");
-      expect(shape.render()).toEqual(`<rect class="shape" height="100" width= "90" x="90" y="60"  style="fill:blue; stroke:#000"/>`);
+      expect(shape.render()).toEqual(`<rect class="shape" height="100" width= "90" x="90" y="60"  style="fill:yellow; stroke:#000"/>`);
     })
     test('Should render text in the center of the square', () => {
         const shape = new Square('Hello World', 'red', 'yellow');
