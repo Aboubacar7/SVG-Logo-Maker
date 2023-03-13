@@ -19,4 +19,4 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 Walthrought video Link - 
 
 
-Repo Link -
+Repo Link - https://github.com/Aboubacar7/SVG-Logo-Maker
