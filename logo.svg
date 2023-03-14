@@ -1,7 +1,7 @@
 
     <svg height="200" width="300" version="1.1" xmlns="http://www.w3.org/2000/svg">
-        <rect class="shape" height="110" width= "110" x="90" y="40"  fill= "green" stroke="#000"/>
-        <text class="text" x="140" y="110" font-size="35" text-anchor="middle" fill="red">kdf</text>
+        <rect class="shape" height="110" width= "110" x="90" y="40"  fill= "red" stroke="#000"/>
+        <text class="text" x="140" y="110" font-size="35" text-anchor="middle" fill="purple">AMD</text>
     </svg>
 
     

@@ -16,7 +16,8 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
-Walthrought video Link - 
+Walthrought video Link - [Walthrought video](https://user-images.githubusercontent.com/118768377/224900038-ddf2c9c3-9681-42f2-bd2a-1063adff076b.webm)
+
 
 
 Repo Link - https://github.com/Aboubacar7/SVG-Logo-Maker
